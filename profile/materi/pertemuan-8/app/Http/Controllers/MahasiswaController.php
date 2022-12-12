@@ -20,9 +20,9 @@ class MahasiswaController extends Controller
         return view('mahasiswa.take', compact('mahasiswa','matakuliahs'));
     }
 
-    public function takeStore(Request $request)
+    public function takeStore(Request $request, Mahasiswa $mahasiswa)
     {
-        $mahasiswa = Mahasiswa::where('npm', $request->npm)->first();
+        $mahasiswa = Mahasiswa::find($mahasiswa->id);
         $matakuliahs = Matakuliah::find($request->matakuliah_id);
         $mahasiswa->matakuliahs()->sync($matakuliahs);
 
