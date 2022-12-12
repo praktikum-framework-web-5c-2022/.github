@@ -1,4 +1,17 @@
 Hi 👋, Welcome to github "Praktikum Framework Pemrograman Web 5C 2022"
+
+## 📙 Materi
+- [Pertemuan 1](https://github.com/praktikum-framework-web-5c-2022/.github/tree/main/profile/materi/pertemuan-1)
+- [Pertemuan 2](https://github.com/praktikum-framework-web-5c-2022/.github/tree/main/profile/materi/pertemuan-2)
+- [Pertemuan 3](https://github.com/praktikum-framework-web-5c-2022/.github/tree/main/profile/materi/pertemuan-3)
+- [Pertemuan 4](https://github.com/praktikum-framework-web-5c-2022/.github/tree/main/profile/materi/pertemuan-4)
+- [Pertemuan 5](https://github.com/praktikum-framework-web-5c-2022/.github/tree/main/profile/materi/pertemuan-5)
+- [Pertemuan 6](https://github.com/praktikum-framework-web-5c-2022/.github/tree/main/profile/materi/pertemuan-6)
+- [Pertemuan 7](https://github.com/praktikum-framework-web-5c-2022/.github/tree/main/profile/materi/pertemuan-7)
+- [Pertemuan 8](https://github.com/praktikum-framework-web-5c-2022/.github/tree/main/profile/materi/pertemuan-8)
+- [Pertemuan 9](https://github.com/praktikum-framework-web-5c-2022/.github/tree/main/profile/materi/pertemuan-9)
+- [Pertemuan 10](https://github.com/praktikum-framework-web-5c-2022/.github/tree/main/profile/materi/pertemuan-10)
+
 ## 📙 Tugas 1
 - [RIZKY ADITYA](https://github.com/praktikum-framework-web-5c-2022/5c-tugas-1-rizky-aditya)
 - [FATHIMATUZ ZAHRA](https://github.com/praktikum-framework-web-5c-2022/5c-tugas-1-fathimatuz-zahra)
